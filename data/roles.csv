@@ -1,0 +1,6 @@
+role_id,role_name,department
+r001,IT_Admin,IT
+r002,IT_Read,IT
+r003,Marketing_Read,Marketing
+r004,Finance_Write,Finance
+r005,HR_Read,HR
