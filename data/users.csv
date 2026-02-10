@@ -1,1 +1,7 @@
+user_id,name,department,status
+u001,Jan Kowalski,IT,Active
+u002,Anna Nowak,Marketing,Active
+u003,Piotr Zielinski,Finance,Active
+u004,Kasia Wisniewska,HR,Inactive
+u005,Marek Dabrowski,IT,Active
 
